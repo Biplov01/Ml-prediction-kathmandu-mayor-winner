@@ -1,0 +1,16 @@
+can_id,can_nam,net_ope_exp,net_con,tot_loa,can_off,can_inc_cha_ope_sea,winner
+ktm lauro,balen,622731.05,1320239.61,0,H,INCUMBENT,TRUE
+ktm surya,nawaraj bhattarai,126566.33,106566.33,20000,H,CHALLENGER,FALSE
+surya,gopal hamal,16956.44,6496.6,11540,H,OPEN,FALSE
+hasiya hatada,pushpa kamal dahal,217,433,0,S,CHALLENGER,FALSE
+hasiya hatauuda, maya gurung,227642.54,227642.54,0,H,CHALLENGER,FALSE
+hasiya hatauda,prem bohara,167095.34,113367.75,121000,H,CHALLENGER,FALSE
+cow,kamal thapa,13543,1866,11881,H,CHALLENGER,FALSE
+surya,gokul baskota,3272727.71,3563773.73,0,S,INCUMBENT,TRUE
+surya,sumit,7726,925,12500,S,OPEN,FALSE
+surya,khadga oli,2805,2805,100,H,CHALLENGER,FALSE
+surya,ram yadav,56333.96,7645,46000,H,CHALLENGER,FALSE
+surya,mahanta thakur,25738.72,25921.6,10600,H,CHALLENGER,FALSE
+tree,upendra yadav ,761265.17,922794.7,0,H,INCUMBENT,TRUE
+surya,lal babu,4.59,100,0,P,OPEN,FALSE
+tree,gagan  ,30903.58,48462.25,0,H,CHALLENGER,FALSE
